@@ -43,6 +43,7 @@ Olá! Sou um profissional com forte experiência em UX/UI Design, atualmente me 
 - **Pesquisa de Mercado e Análise de Tendências**: Utilização de análise de dados para identificar tendências de mercado e orientar decisões de design.
 - **Otimização de Interfaces com Análise de Dados**: Aplicação de análises quantitativas e qualitativas para aprimorar interfaces de usuário.
 
+## Demais informações
 Quanto aos idiomas, tenho o nível intermediário em inglês e português como língua nativa.
 <br><br>
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para colaborar em projetos que unem minha experiência em design com minhas novas competências em análise de dados.
