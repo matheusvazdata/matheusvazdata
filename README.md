@@ -11,9 +11,7 @@
 <br>
 
 E não se esqueça de conferir o meu blog para mais insights e projetos.
-
 <br>
-
 ## Sobre mim:
 
 Olá! Sou um profissional com forte experiência em UX/UI Design, atualmente me aprofundando no mundo da análise de dados. Acredito que a combinação de design e análise de dados pode oferecer uma nova dimensão às decisões de negócios e design, proporcionando insights mais profundos e orientados por dados.
