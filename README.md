@@ -26,7 +26,6 @@ Olá! Sou um profissional com forte experiência em UX/UI Design, atualmente me 
 - **Excel**: Avançado na utilização de Excel para análise de dados, incluindo fórmulas complexas, tabelas dinâmicas e visualizações.
 
 <br>
-
 ### Soft Skills:
 
 - Criativo
@@ -37,7 +36,6 @@ Olá! Sou um profissional com forte experiência em UX/UI Design, atualmente me 
 - Adaptável a novas tecnologias e desafios
 
 <br>
-
 ## Projetos em que atuei:
 
 - **Análise de UX com Dados**: Integrando análise de dados para melhorar a experiência do usuário em produtos digitais.
@@ -46,9 +44,7 @@ Olá! Sou um profissional com forte experiência em UX/UI Design, atualmente me 
 - **Otimização de Interfaces com Análise de Dados**: Aplicação de análises quantitativas e qualitativas para aprimorar interfaces de usuário.
 
 <br>
-
 Quanto aos idiomas, tenho o nível intermediário em inglês e português como língua nativa.
-
 <br>
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para colaborar em projetos que unem minha experiência em design com minhas novas competências em análise de dados.
