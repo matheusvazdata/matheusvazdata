@@ -25,7 +25,7 @@ Olá! Sou um profissional com forte experiência em UX/UI Design, atualmente me 
 - **SQL**: Proficiência em manipulação e consulta de dados para insights analíticos.
 - **Excel**: Avançado na utilização de Excel para análise de dados, incluindo fórmulas complexas, tabelas dinâmicas e visualizações.
 
-<br>
+
 ### Soft Skills:
 
 - Criativo
@@ -35,7 +35,7 @@ Olá! Sou um profissional com forte experiência em UX/UI Design, atualmente me 
 - Capacidade de aprender rapidamente
 - Adaptável a novas tecnologias e desafios
 
-<br>
+
 ## Projetos em que atuei:
 
 - **Análise de UX com Dados**: Integrando análise de dados para melhorar a experiência do usuário em produtos digitais.
