@@ -7,7 +7,7 @@
 🖌️ Com uma base sólida em UX/UI Design, tenho trabalhado para expandir meu conhecimento e habilidades para incluir Data Analytics. <br>
 📊 Estou focado em aprimorar minhas habilidades em Excel, SQL, Python e visualização de dados, acreditando firmemente que a análise de dados pode enriquecer decisões de design e negócios com insights holísticos e acionáveis. <br>
 🔗 Confira meu portfólio, que demonstra meu progresso e projetos em análise de dados, em [meu portfólio](https://abre.ai/portolio-dados-matheusvaz). <br>
-📧 Para entrar em contato comigo, sinta-se à vontade para enviar um e-mail ou visitar meu perfil no LinkedIn. <br>
+📧 Para entrar em contato comigo, sinta-se à vontade [para enviar um e-mail](mailto:matheusvaz.data@gmail.com) ou visitar [meu perfil no LinkedIn](https://www.linkedin.com/in/matheustech/). <br>
 <br>
 
 E não se esqueça de conferir o meu blog para mais insights e projetos.
@@ -49,12 +49,7 @@ Olá! Sou um profissional com forte experiência em UX/UI Design, atualmente me 
 
 <br>
 
-Quanto aos idiomas, sou fluente em português e possuo proficiência em inglês.
-
-## Produção de Conteúdo:
-
-- **Blog**: Publico regularmente artigos que exploram a intersecção entre design e análise de dados, oferecendo insights sobre como a análise de dados pode melhorar o processo de design.
-- **LinkedIn**: Compartilho insights, projetos e progresso na minha jornada de integração entre análise de dados e design.
+Quanto aos idiomas, tenho o nível intermediário em inglês e português como língua nativa.
 
 <br>
 
