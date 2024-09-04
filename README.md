@@ -1,4 +1,4 @@
-# Olá! Bem-vindo(a) ao meu repositório 🚀
+# Bem-vindo(a) ao meu repositório 🚀
 
 ## Sobre Mim
 Sou um profissional com uma sólida base em **UX/UI Design**, atualmente ampliando minha expertise para **Análise de Dados**. Minha experiência em design proporciona uma visão holística das necessidades dos usuários, que agora aplico em análises orientadas por dados para decisões mais informadas e estratégias de negócios eficazes.
