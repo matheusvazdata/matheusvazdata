@@ -1,49 +1,29 @@
-# Olá! Bem-vindo(a) ao meu repositório!
+# Olá! Bem-vindo(a) ao meu repositório 🚀
 
-<br>
+## Sobre Mim
+Sou um profissional com uma sólida base em UX/UI Design, agora expandindo minha expertise para o universo da Análise de Dados. Minha experiência em design me proporcionou uma compreensão profunda das necessidades dos usuários, e agora, estou aplicando essa perspectiva em análises orientadas por dados para gerar insights que enriquecem tanto as decisões de design quanto as de negócios.
 
-## Minha experiência:
+## Competências Técnicas
 
-🖌️ Com uma base sólida em UX/UI Design, tenho trabalhado para expandir meu conhecimento e habilidades para incluir Data Analytics. <br>
-📊 Estou focado em aprimorar minhas habilidades em Excel, SQL, Python e visualização de dados, acreditando firmemente que a análise de dados pode enriquecer decisões de design e negócios com insights holísticos e acionáveis. <br>
-🔗 Confira meu portfólio, que demonstra meu progresso e projetos em análise de dados, em [meu portfólio](https://abre.ai/portolio-dados-matheusvaz). <br>
-📧 Para entrar em contato comigo, sinta-se à vontade [para enviar um e-mail](mailto:matheusvaz.data@gmail.com) ou visitar [meu perfil no LinkedIn](https://www.linkedin.com/in/matheustech/). <br>
-<br>
+**Data Analytics**
+- **Excel:** Habilidade avançada em análise de dados, incluindo o uso de fórmulas complexas, tabelas dinâmicas e criação de visualizações.
+- **SQL:** Proficiente na manipulação e consulta de grandes volumes de dados, transformando-os em insights acionáveis.
+- **Python:** Experiência em bibliotecas como Pandas e Matplotlib para análise de dados e visualizações interativas.
 
-E não se esqueça de conferir o meu blog para mais insights e projetos.
-<br>
-## Sobre mim:
+**Visualização de Dados**
+- **Dashboards Interativos:** Criação de dashboards que traduzem dados complexos em visualizações intuitivas e informativas.
+- **Análise de UX com Dados:** Integração de dados quantitativos e qualitativos para otimizar a experiência do usuário em produtos digitais.
 
-Olá! Sou um profissional com forte experiência em UX/UI Design, atualmente me aprofundando no mundo da análise de dados. Acredito que a combinação de design e análise de dados pode oferecer uma nova dimensão às decisões de negócios e design, proporcionando insights mais profundos e orientados por dados.
+**UX/UI Design**
+- **Design Centrado no Usuário:** Profundo conhecimento na criação de interfaces que combinam funcionalidade com uma experiência estética refinada.
 
-### Hard Skills:
+## Projetos Recentes
 
-- **Data Analytics**: Experiência prática com Excel, SQL, e Python para análise de dados.
-- **Visualização de Dados**: Capacidade de traduzir dados complexos em visualizações compreensíveis e atraentes.
-- **UX/UI Design**: Amplo conhecimento e experiência em criar interfaces que são tanto esteticamente agradáveis quanto altamente funcionais.
-- **Python**: Utilização de bibliotecas como Pandas e Matplotlib para análise de dados e visualização.
-- **SQL**: Proficiência em manipulação e consulta de dados para insights analíticos.
-- **Excel**: Avançado na utilização de Excel para análise de dados, incluindo fórmulas complexas, tabelas dinâmicas e visualizações.
+- **Análise de UX com Dados:** Melhoria da experiência do usuário em produtos digitais através da integração de análises de dados.
+- **Dashboard de Visualização de Dados:** Desenvolvimento de dashboards interativos para comunicação eficaz de insights de negócios e design.
+- **Pesquisa de Mercado e Análise de Tendências:** Identificação de tendências de mercado utilizando análise de dados para orientar decisões estratégicas de design.
+- **Otimização de Interfaces:** Aplicação de métodos quantitativos e qualitativos para aprimorar a usabilidade de interfaces digitais.
 
+## Contato e Portfólio
 
-### Soft Skills:
-
-- Criativo
-- Detalhista
-- Analítico
-- Comunicativo
-- Capacidade de aprender rapidamente
-- Adaptável a novas tecnologias e desafios
-
-
-## Projetos em que atuei:
-
-- **Análise de UX com Dados**: Integrando análise de dados para melhorar a experiência do usuário em produtos digitais.
-- **Dashboard de Visualização de Dados**: Desenvolvimento de dashboards interativos para apresentar insights de negócios e de design.
-- **Pesquisa de Mercado e Análise de Tendências**: Utilização de análise de dados para identificar tendências de mercado e orientar decisões de design.
-- **Otimização de Interfaces com Análise de Dados**: Aplicação de análises quantitativas e qualitativas para aprimorar interfaces de usuário.
-
-## Demais informações
-Quanto aos idiomas, tenho o nível intermediário em inglês e português como língua nativa.
-<br><br>
-Sinta-se à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para colaborar em projetos que unem minha experiência em design com minhas novas competências em análise de dados.
+Estou sempre em busca de novos desafios que unam minhas habilidades em design e análise de dados. Para explorar mais sobre meus projetos ou para colaborações, sinta-se à vontade para acessar [meu portfólio](https://matheusvazdata.notion.site/Portifolio-Analista-de-Dados-42600f03713e46b6911d6c7b916c917f?pvs=4) e entrar em contato comigo pelo [LinkedIn]([#](https://www.linkedin.com/in/matheusvazcientistadedados/)) ou [e-mail](mailto:matheusvaz.data@gmail.com).
