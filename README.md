@@ -33,5 +33,5 @@ Sou um profissional em transição para Engenharia de Dados e Analytics Engineer
 ---
 
 ## 📬 Contato e Portfólio
-- LinkedIn: [Meu Perfil]([https://www.linkedin.com](https://www.linkedin.com/in/matheusvazdata/))  
+- LinkedIn: [matheusvazdata](https://www.linkedin.com/in/matheusvazdata)  
 - E-mail: [matheusvaz.data@gmail.com](mailto:matheusvaz.data@gmail.com)
