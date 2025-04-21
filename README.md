@@ -1,48 +1,62 @@
-# 🚀 Bem-vindo(a) ao meu Repositório
+# 👋 Olá, eu sou o Matheus Vaz
 
-## 🏆 Sobre Mim
-Sou um profissional em transição para **Engenharia de Dados e Analytics Engineering**, com experiência anterior em UX/UI Design e Análise de Dados. Minha jornada combina conhecimento técnico com uma abordagem centrada na **experiência do usuário** e na **tomada de decisões baseada em dados**.
+Atualmente participo do programa **Lighthouse da Indicium**, uma formação intensiva para me tornar **Full Stack em Dados**, com especialização em **Engenharia de Dados**. Venho da área de UX/UI e Análise de Dados, e hoje aplico essa bagagem técnica e estratégica em projetos de automação, ingestão e arquitetura de dados.
 
-Atualmente, meu foco está na **construção de pipelines de dados escaláveis**, automação de processos e criação de soluções que impulsionam insights estratégicos para os negócios.
-
-Estou sempre aprendendo e aprimorando minhas habilidades, com experiência prática por meio de projetos e cursos especializados na área.
+Meu foco está em criar pipelines robustos, orquestrar processos, modelar dados e entregar valor por meio de soluções escaláveis e bem construídas.
 
 ---
 
-## 💻 Competências Técnicas  
+## ⚙️ Habilidades Técnicas
 
-### 🚀 Engenharia de Dados & Analytics Engineering
-- **SQL Avançado**: Manipulação, modelagem e otimização de consultas para grandes volumes de dados.
-- **Python**: Desenvolvimento de scripts e automação de pipelines com Pandas, NumPy, Airflow e PySpark.
-- **ETL/ELT**: Extração, transformação e carga de dados de diversas fontes para Data Warehouses e Data Lakes.
-- **Cloud Computing**: Experiência em AWS (S3, Lambda, Glue, Redshift) e GCP (BigQuery, Cloud Functions, Dataflow).
-- **Data Warehousing & Modelagem de Dados**: Construção de arquiteturas escaláveis e governança de dados.
+### 🏗 Engenharia de Dados
+- SQL avançado para modelagem, performance e manipulação
+- Python com Pandas, NumPy, PySpark e automação de processos
+- Airflow para orquestração de pipelines
+- ETL/ELT com foco em Data Lakes e Data Warehouses
+- Docker e Git para versionamento e ambientes reprodutíveis
+- Arquiteturas em nuvem: **AWS** (S3, Glue, Lambda) e **GCP** (BigQuery, Cloud Functions)
 
-### 📊 Data Analytics & Visualização de Dados
-- **Power BI & Metabase**: Criação de dashboards interativos para monitoramento de KPIs.
-- **Amplitude Analytics**: Análise de comportamento e métricas de produto.
-- **Excel Avançado**: Tabelas dinâmicas, macros e análise de dados.
-- **Storytelling com Dados**: Apresentação de insights de forma clara e estratégica.
-
----
-
-## 📌 Projetos Recentes
-🔹 **Pipeline ETL Automatizado**: Desenvolvimento de um pipeline de dados em Python para integrar múltiplas fontes de dados e consolidar informações em um Data Warehouse na nuvem.
-
-🔹 **Monitoramento de KPIs**: Construção de dashboards automatizados em Power BI e Metabase para acompanhamento de métricas de negócio.
-
-🔹 **Análise de Tendências de Mercado**: Extração e análise de dados para identificar padrões e prever tendências.
+### 📊 Analytics & Visualização
+- Power BI, Metabase e Looker Studio para dashboards e relatórios
+- Excel avançado e Amplitude Analytics
+- Storytelling com dados para apresentar insights com clareza
 
 ---
 
-## 📚 Certificações & Estudos
-- **[Portfólio no DataCamp](https://www.datacamp.com/portfolio/matheusvazdata)**: Projetos práticos e cursos concluídos na área de Engenharia de Dados e Analytics Engineering.
-- **Cursos em Andamento**: Engenharia de Dados com Spark e Data Warehousing em AWS/GCP.
+## 🚀 Projetos em Destaque
+
+### 🥗 [Daily Diet API](https://github.com/matheusvazdata/daily-diet-api)
+API RESTful em Flask com CRUD completo, persistência com SQLite, testes no Postman e ambiente Dockerizado.
+
+### 📦 [Pipeline do Zero ao Estrelato com GCP](https://github.com/matheusvazdata/pipeline-do-zero-ao-estrelato-com-gcp)
+Pipeline de dados para setor de RH com extração, tratamento em Python, carga no BigQuery e visualização em Power BI.
+
+### 🧠 [Classificação de Inadimplentes](https://github.com/matheusvazdata/ml-classificacao-analise-de-inadimplencia)
+Projeto de machine learning com engenharia de atributos, balanceamento com SMOTE e otimização com XGBoost.
+
+### ✅ [Tasks Flask CRUD + Pytest](https://github.com/matheusvazdata/tasks-flask-crud)
+API simples com testes automatizados, ideal para validação de lógicas de backend com foco em dados.
 
 ---
 
-## 📬 Contato & Redes Profissionais
-- **LinkedIn**: [matheusvazdata](https://www.linkedin.com/in/matheusvazdata)
+## 📚 Formação & Portfólio
+
+- **Programa Lighthouse - Indicium**  
+  Trilha: Engenharia de Analytics (em andamento)  
+  Foco em projetos reais, pipelines, transformação e automação de dados.
+
+- **Portfólio DataCamp**  
+  [https://www.datacamp.com/portfolio/matheusvazdata](https://www.datacamp.com/portfolio/matheusvazdata)  
+  Projetos práticos e cursos concluídos nas áreas de Engenharia de Dados e Analytics.
+
+---
+
+## 📬 Contato
+
+- **LinkedIn**: [linkedin.com/in/matheusvazdata](https://www.linkedin.com/in/matheusvazdata)
+- **GitHub**: [github.com/matheusvazdata](https://github.com/matheusvazdata)
 - **E-mail**: [matheusvaz.data@gmail.com](mailto:matheusvaz.data@gmail.com)
 
-Sempre aberto a oportunidades e colaborações! 🚀
+---
+
+Sempre aberto a colaborações, trocas e novas oportunidades na área de Dados.
