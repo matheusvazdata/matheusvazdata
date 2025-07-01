@@ -1,55 +1,71 @@
+<!-- Badges de Skills Aprendidas -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Meltano-000000?style=for-the-badge&logo=meltano&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embulk-4B3263?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
 # 👋 Olá, eu sou o Matheus Vaz
 
-Atualmente participo do programa **Lighthouse da Indicium**, uma formação intensiva para me tornar **Full Stack em Dados**, com especialização em **Engenharia de Dados**. Venho da área de UX/UI e Análise de Dados, e hoje aplico essa bagagem técnica e estratégica em projetos de automação, ingestão e arquitetura de dados.
+Atualmente participo do programa **Lighthouse da Indicium**, com foco prático em **Engenharia de Dados**. Tenho formação anterior em UX/UI e experiência com Análise de Dados. Hoje, concentro meus esforços em construir pipelines bem estruturados, orquestrar fluxos e lidar com dados de forma eficiente.
 
-Meu foco está em criar pipelines robustos, orquestrar processos, modelar dados e entregar valor por meio de soluções escaláveis e bem construídas.
-
----
+Meu interesse está em resolver problemas reais com soluções que funcionam na prática — com código limpo, automação e organização.
 
 ## ⚙️ Habilidades Técnicas
 
 ### 🏗 Engenharia de Dados
-- SQL avançado para modelagem, performance e manipulação
-- Python com Pandas, NumPy, PySpark e automação de processos
-- Airflow para orquestração de pipelines
-- ETL/ELT com foco em Data Lakes e Data Warehouses
-- Docker e Git para versionamento e ambientes reprodutíveis
-- Arquiteturas em nuvem: **AWS** (S3, Glue, Lambda) e **GCP** (BigQuery, Cloud Functions)
+- SQL para modelagem, análise e performance
+- Python com Pandas, NumPy, PySpark e automações
+- Apache Airflow para orquestração de tarefas
+- ETL/ELT com Meltano, Embulk e dbt
+- Contêineres com Docker e versionamento com Git
+- Databricks Delta Lake em fluxos analíticos
+- Cloud: **AWS** (S3, Glue, Lambda) e **GCP** (BigQuery, Cloud Functions)
 
 ### 📊 Analytics & Visualização
-- Power BI, Metabase e Looker Studio para dashboards e relatórios
-- Excel avançado e Amplitude Analytics
-- Storytelling com dados para apresentar insights com clareza
-
----
+- Dashboards com Power BI, Metabase e Looker Studio
+- Excel avançado, Amplitude Analytics
+- Apresentação de dados de forma clara e objetiva
 
 ## 🚀 Projetos em Destaque
 
-### 🥗 [Daily Diet API](https://github.com/matheusvazdata/daily-diet-api)
-API RESTful em Flask com CRUD completo, persistência com SQLite, testes no Postman e ambiente Dockerizado.
+### 📡 [Extração e Ingestão com Embulk, Meltano e Airflow](https://github.com/matheusvazdata/embulk-meltano-airflow-pipeline)
+Pipeline modular com múltiplas fontes (PostgreSQL e CSV), usando Docker e Airflow:
+- Extração com Embulk (13 tabelas)
+- Tap customizado Meltano para CSV
+- Carga via JSONL e CSV para PostgreSQL
+- Orquestração com DAGs Airflow
+- Automatização com Shell Script e Makefile
 
-### 📦 [Pipeline do Zero ao Estrelato com GCP](https://github.com/matheusvazdata/pipeline-do-zero-ao-estrelato-com-gcp)
-Pipeline de dados para setor de RH com extração, tratamento em Python, carga no BigQuery e visualização em Power BI.
+### 🥗 [Daily Diet API](https://github.com/matheusvazdata/daily-diet-api)
+API RESTful em Flask com SQLite e ambiente Dockerizado. Inclui CRUD, testes no Postman e separação clara das rotas.
+
+### 📦 [Pipeline com BigQuery + Power BI](https://github.com/matheusvazdata/pipeline-do-zero-ao-estrelato-com-gcp)
+Fluxo completo de dados para área de RH: coleta com Python, carga no BigQuery e visualização em Power BI.
 
 ### 🧠 [Classificação de Inadimplentes](https://github.com/matheusvazdata/ml-classificacao-analise-de-inadimplencia)
-Projeto de machine learning com engenharia de atributos, balanceamento com SMOTE e otimização com XGBoost.
-
-### ✅ [Tasks Flask CRUD + Pytest](https://github.com/matheusvazdata/tasks-flask-crud)
-API simples com testes automatizados, ideal para validação de lógicas de backend com foco em dados.
-
----
+Projeto com XGBoost, balanceamento via SMOTE e foco na explicabilidade do modelo. Etapas bem divididas de EDA até entrega.
 
 ## 📚 Formação & Portfólio
 
-- **Programa Lighthouse - Indicium**  
-  Trilha: Engenharia de Analytics (em andamento)  
-  Foco em projetos reais, pipelines, transformação e automação de dados.
+- **Lighthouse - Indicium**  
+  Trilha: Engenharia de Analytics (ênfase prática em Engenharia de Dados)  
+  Projetos com foco em ingestão, transformação e automação.
 
 - **Portfólio DataCamp**  
   [https://www.datacamp.com/portfolio/matheusvazdata](https://www.datacamp.com/portfolio/matheusvazdata)  
-  Projetos práticos e cursos concluídos nas áreas de Engenharia de Dados e Analytics.
-
----
+  Projetos aplicados e certificados em Engenharia de Dados e Analytics.
 
 ## 📬 Contato
 
@@ -57,6 +73,4 @@ API simples com testes automatizados, ideal para validação de lógicas de back
 - **GitHub**: [github.com/matheusvazdata](https://github.com/matheusvazdata)
 - **E-mail**: [matheusvaz.data@gmail.com](mailto:matheusvaz.data@gmail.com)
 
----
-
-Sempre aberto a colaborações, trocas e novas oportunidades na área de Dados.
+Este espaço reúne parte do que venho desenvolvendo. Sempre aberto a conversas e aprendizados na área de Dados.
