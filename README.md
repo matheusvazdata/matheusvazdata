@@ -40,7 +40,7 @@ Meu interesse está em resolver problemas reais com soluções que funcionam na 
 
 ## 🚀 Projetos em Destaque
 
-### 📡 [Extração e Ingestão com Embulk, Meltano e Airflow](https://github.com/matheusvazdata/embulk-meltano-airflow-pipeline)
+### 📡 [Extração e Ingestão com Embulk, Meltano e Airflow](https://github.com/matheusvazdata/data-pipeline-airflow-meltano-embulk)
 Pipeline modular com múltiplas fontes (PostgreSQL e CSV), usando Docker e Airflow:
 - Extração com Embulk (13 tabelas)
 - Tap customizado Meltano para CSV
